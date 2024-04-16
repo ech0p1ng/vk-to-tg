@@ -1,0 +1,21 @@
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\vk to tg.exe
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\vk to tg.deps.json
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\vk to tg.runtimeconfig.json
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\vk to tg.dll
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\vk to tg.pdb
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\AngleSharp.dll
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\Telegram.Bot.dll
+C:\Users\oselish\Desktop\vk to tg\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.csproj.AssemblyReference.cache
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.AssemblyInfoInputs.cache
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.AssemblyInfo.cs
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.csproj.CoreCompileInputs.cache
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.csproj.CopyComplete
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.dll
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\refint\vk to tg.dll
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.pdb
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\vk to tg.genruntimeconfig.cache
+C:\Users\oselish\Desktop\vk to tg\obj\Release\net6.0\ref\vk to tg.dll
